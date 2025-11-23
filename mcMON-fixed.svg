@@ -1,8 +1,0 @@
-<svg width="512" height="512" viewBox="0 0 512 512"
-     xmlns="http://www.w3.org/2000/svg">
-<circle cx="256" cy="256" r="256" fill="#98140A" />
-<image href="mcmon-mouth.png"
-       x="40.421" y="80.842"
-       width="444.632" height="350.316"
-       preserveAspectRatio="xMidYMid meet" />
-</svg>
